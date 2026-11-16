@@ -1,0 +1,24 @@
+{
+  "replace": false,
+  "values": [
+    "thaumicdyes:cultist_robe_helm",
+    "thaumicdyes:fortress_helm",
+    "thaumicdyes:cultist_leader_helm",
+    "thaumicdyes:cultist_plate_helm",
+    "thaumicdyes:inhabited_plate_helm",
+    "thaumicdyes:iron_fortress_helm",
+    "thaumicdyes:cultist_ranger_helm",
+    "thaumicdyes:cultist_ranger_helm_dyed",
+    "thaumicdyes:void_robe_helm",
+    "thaumicdyes:thaumium_robe_helm",
+    "thaumicdyes:cultist_archer_helm",
+    "thaumicdyes:cultist_paladin_helm",
+    "thaumicdyes:cultist_archer_helm_dyed",
+    "thaumicdyes:sun_knight_helm",
+    "thaumicdyes:item_runic_helmet",
+    "thaumicdyes:item_runic_goggles",
+    "thaumicdyes:item_mask_evil",
+    "thaumicdyes:item_runic_helmet_enhanced",
+    "thaumicdyes:item_runic_helmet_primal"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "thaumicdyes:boots_thaumium_traveller",
+    "thaumicdyes:boots_void_traveller",
+    "thaumicdyes:item_runic_boots",
+    "thaumicdyes:item_runic_boots_traveller",
+    "thaumicdyes:item_runic_boots_enhanced",
+    "thaumicdyes:item_runic_boots_primal"
+  ]
+}

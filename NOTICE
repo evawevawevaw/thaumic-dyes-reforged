@@ -1,0 +1,14 @@
+Thaumic Dyes: Reforged 1.10.5-reforged.6
+Copyright (c) 2026 evawevawevaw (port adaptations).
+Copyright (c) KryptonCaptain and Amerem (original Thaumic Dyes 1.10.5-0).
+Original models: D95. Chinese translation: ColdWind. Russian translation: Hiyori.
+Thaumcraft: Azanor; Thaumcraft 4: Reforged is a separate dependency.
+Original project: https://www.curseforge.com/minecraft/mc-mods/thaumic-dyes
+
+Original item/armor textures, model dimensions and translations are adapted
+from Thaumic Dyes. Existing resources are reused for visible runic I/II armor
+in this port. No original class binaries or dependency jars are bundled.
+This release is distributed under GNU General Public License version 3 (GPL-3.0-only).
+See LICENSE for the full terms. The original project lists GPLv3; this license
+was confirmed for the clean release by evawevawevaw on 2026-11-17.
+External dependencies retain their own licenses and are not included.

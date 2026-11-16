@@ -1,0 +1,216 @@
+{
+  "sources": [
+    {
+      "type": "minecraft:single",
+      "resource": "thaumicdyes:items/bootsthaumiumtrv"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "thaumicdyes:items/bootsvoidtrv"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "thaumicdyes:items/cultistplatechest"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "thaumicdyes:items/cultistplatelegs"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "thaumicdyes:items/enhancedrunicboots"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "thaumicdyes:items/enhancedrunicchest"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "thaumicdyes:items/enhancedrunichelmet"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "thaumicdyes:items/enhancedrunicleggings"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "thaumicdyes:items/icon/cultist_archer_helm"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "thaumicdyes:items/icon/cultist_leader_chest"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "thaumicdyes:items/icon/cultist_leader_helm"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "thaumicdyes:items/icon/cultist_leader_legs"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "thaumicdyes:items/icon/cultist_paladin_helm"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "thaumicdyes:items/icon/cultist_plate_chest"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "thaumicdyes:items/icon/cultist_plate_helm"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "thaumicdyes:items/icon/cultist_plate_legs"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "thaumicdyes:items/icon/cultist_ranger_chest"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "thaumicdyes:items/icon/cultist_ranger_chest2"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "thaumicdyes:items/icon/cultist_ranger_helm"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "thaumicdyes:items/icon/cultist_ranger_legs"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "thaumicdyes:items/icon/cultist_ranger_legs2"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "thaumicdyes:items/icon/cultist_robe_chest"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "thaumicdyes:items/icon/cultist_robe_helm"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "thaumicdyes:items/icon/cultist_robe_legs"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "thaumicdyes:items/icon/fortress_chest"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "thaumicdyes:items/icon/fortress_helm"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "thaumicdyes:items/icon/fortress_legs"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "thaumicdyes:items/icon/husk_plate_chest"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "thaumicdyes:items/icon/husk_plate_helm"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "thaumicdyes:items/icon/husk_plate_legs"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "thaumicdyes:items/icon/iron_fortress_chest"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "thaumicdyes:items/icon/iron_fortress_helm"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "thaumicdyes:items/icon/iron_fortress_legs"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "thaumicdyes:items/icon/sun_plate_chest"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "thaumicdyes:items/icon/sun_plate_helm"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "thaumicdyes:items/icon/thaumium_robe_chest"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "thaumicdyes:items/icon/thaumium_robe_helm"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "thaumicdyes:items/icon/thaumium_robe_legs"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "thaumicdyes:items/icon/void_robe_chest"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "thaumicdyes:items/icon/void_robe_helm"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "thaumicdyes:items/icon/void_robe_legs"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "thaumicdyes:items/itemfabricresource"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "thaumicdyes:items/maskevil"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "thaumicdyes:items/runicboots"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "thaumicdyes:items/runicbootsprimal"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "thaumicdyes:items/runicbootstraveler"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "thaumicdyes:items/runicchest"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "thaumicdyes:items/runicchestprimal"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "thaumicdyes:items/runicgoggles"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "thaumicdyes:items/runichelmet"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "thaumicdyes:items/runichelmprimal"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "thaumicdyes:items/runicleggings"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "thaumicdyes:items/runiclegsprimal"
+    }
+  ]
+}

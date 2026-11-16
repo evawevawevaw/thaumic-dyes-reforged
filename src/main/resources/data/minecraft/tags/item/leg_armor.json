@@ -1,0 +1,20 @@
+{
+  "replace": false,
+  "values": [
+    "thaumicdyes:cultist_robe_legs",
+    "thaumicdyes:fortress_legs",
+    "thaumicdyes:cultist_leader_legs",
+    "thaumicdyes:cultist_plate_legs",
+    "thaumicdyes:inhabited_plate_legs",
+    "thaumicdyes:iron_fortress_legs",
+    "thaumicdyes:cultist_ranger_legs",
+    "thaumicdyes:cultist_ranger_legs_dyed",
+    "thaumicdyes:void_robe_legs",
+    "thaumicdyes:thaumium_robe_legs",
+    "thaumicdyes:cultist_archer_legs",
+    "thaumicdyes:cultist_archer_legs_dyed",
+    "thaumicdyes:item_runic_legs",
+    "thaumicdyes:item_runic_legs_enhanced",
+    "thaumicdyes:item_runic_legs_primal"
+  ]
+}

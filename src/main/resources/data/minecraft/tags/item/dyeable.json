@@ -1,0 +1,29 @@
+{
+  "replace": false,
+  "values": [
+    "thaumicdyes:cultist_robe_helm",
+    "thaumicdyes:cultist_robe_chest",
+    "thaumicdyes:cultist_robe_legs",
+    "thaumicdyes:fortress_helm",
+    "thaumicdyes:fortress_chest",
+    "thaumicdyes:fortress_legs",
+    "thaumicdyes:cultist_leader_helm",
+    "thaumicdyes:cultist_leader_chest",
+    "thaumicdyes:cultist_leader_legs",
+    "thaumicdyes:cultist_plate_helm",
+    "thaumicdyes:cultist_plate_chest",
+    "thaumicdyes:cultist_plate_legs",
+    "thaumicdyes:cultist_ranger_helm_dyed",
+    "thaumicdyes:cultist_ranger_chest_dyed",
+    "thaumicdyes:cultist_ranger_legs_dyed",
+    "thaumicdyes:void_robe_helm",
+    "thaumicdyes:void_robe_chest",
+    "thaumicdyes:void_robe_legs",
+    "thaumicdyes:thaumium_robe_helm",
+    "thaumicdyes:thaumium_robe_chest",
+    "thaumicdyes:thaumium_robe_legs",
+    "thaumicdyes:cultist_archer_helm_dyed",
+    "thaumicdyes:cultist_archer_chest_dyed",
+    "thaumicdyes:cultist_archer_legs_dyed"
+  ]
+}

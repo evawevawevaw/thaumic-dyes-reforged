@@ -1,0 +1,21 @@
+{
+  "replace": false,
+  "values": [
+    "thaumicdyes:cultist_robe_chest",
+    "thaumicdyes:fortress_chest",
+    "thaumicdyes:cultist_leader_chest",
+    "thaumicdyes:cultist_plate_chest",
+    "thaumicdyes:inhabited_plate_chest",
+    "thaumicdyes:iron_fortress_chest",
+    "thaumicdyes:cultist_ranger_chest",
+    "thaumicdyes:cultist_ranger_chest_dyed",
+    "thaumicdyes:void_robe_chest",
+    "thaumicdyes:thaumium_robe_chest",
+    "thaumicdyes:cultist_archer_chest",
+    "thaumicdyes:cultist_archer_chest_dyed",
+    "thaumicdyes:sun_knight_chest",
+    "thaumicdyes:item_runic_chest",
+    "thaumicdyes:item_runic_chest_enhanced",
+    "thaumicdyes:item_runic_chest_primal"
+  ]
+}
