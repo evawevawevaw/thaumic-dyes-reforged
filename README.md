@@ -2,7 +2,7 @@
 
 ## О моде
 
-**Thaumic Dyes: Reforged 1.10.5-reforged.6**, mod ID `thaumicdyes`.
+**Thaumic Dyes: Reforged**
 Автор порта: **evawevawevaw**. Авторы оригинала: **KryptonCaptain и Amerem**.
 
 Порт [Thaumic Dyes 1.10.5-0 для Minecraft 1.7.10](https://www.curseforge.com/minecraft/mc-mods/thaumic-dyes)
